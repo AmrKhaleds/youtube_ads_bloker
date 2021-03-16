@@ -1,0 +1,1 @@
+setInterval(function(){ if(document.querySelector('.ytp-ad-text.ytp-ad-skip-button-text')){document.querySelector('.ytp-ad-text.ytp-ad-skip-button-text').click();} }, 1000);
